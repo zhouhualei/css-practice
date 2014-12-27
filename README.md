@@ -1,4 +1,4 @@
 css-practice
 ============
 
-example code writen for css practice
+example code written for css practice
